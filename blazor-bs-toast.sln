@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.Blazor.Server", "test\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.Blazor.Wasm", "test\Test.Blazor.Wasm\Test.Blazor.Wasm.csproj", "{6BFE710E-E346-4E9E-B9B8-23B833598DFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blazor.Toast", "Blazor.Toast\Blazor.Toast.csproj", "{741CD7D2-BCE5-4865-B248-1A30D8DAD8DD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blazor.Toast", "src\Blazor.Toast\Blazor.Toast.csproj", "{741CD7D2-BCE5-4865-B248-1A30D8DAD8DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

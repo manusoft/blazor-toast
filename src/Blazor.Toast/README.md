@@ -1,4 +1,4 @@
-﻿![Static Badge](https://img.shields.io/badge/ManuHub.Blazor.Toast-red) ![NuGet Version](https://img.shields.io/nuget/v/ManuHub.Blazor.Toast) ![.NET](https://img.shields.io/badge/.NET-8%20%7C%209-blueviolet)
+﻿![Static Badge](https://img.shields.io/badge/ManuHub.Blazor.Toast-red) ![NuGet Version](https://img.shields.io/nuget/v/ManuHub.Blazor.Toast) ![.NET](https://img.shields.io/badge/.NET-8%20%7C%209%20%7C%2010-blueviolet)
 
 # ManuHub.Blazor.Toast
 
